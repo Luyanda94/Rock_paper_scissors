@@ -22,6 +22,7 @@ This is a simple Python script that allows users to play the classic Rock-Paper-
 2. Enter your choice when prompted (Rock, Paper, or Scissors).
 3. The computer will randomly select its choice.
 4. The script will determine the winner and display the result.
+5. The game keeps track of scores, provides encouraging messages based on the outcome, and allows players to decide whether they want to play another round.
 
 ## Getting Started
 
