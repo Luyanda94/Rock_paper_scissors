@@ -23,6 +23,7 @@ This is a simple Python script that allows users to play the classic Rock-Paper-
 3. The computer will randomly select its choice.
 4. The script will determine the winner and display the result.
 5. The game keeps track of scores, provides encouraging messages based on the outcome, and allows players to decide whether they want to play another round.
+6. Feedback on how the scoring system works. Each win earns the player one point, and the first to reach a certain number of points (e.g., 3) is the overall winner.
 
 ## Getting Started
 
